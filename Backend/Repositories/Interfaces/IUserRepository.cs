@@ -1,4 +1,4 @@
-using Backend.models;
+using Backend.Models;
 
 namespace Backend.Repositories
 {
