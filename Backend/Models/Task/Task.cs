@@ -1,6 +1,5 @@
 namespace Backend.Models.Task;
-
-public class Task
+public class TaskItem
 {
     public string Id { get; set; } = Guid.NewGuid().ToString();
     public string Title { get; set; } = string.Empty;
